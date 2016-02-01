@@ -1,7 +1,7 @@
 name: Imtiaz Willems
 favicon: null
-layout_spectrum: 0.45878006843850017
-typography_spectrum: 0.28917329641990364
+layout_spectrum: 0
+typography_spectrum: 0.16968
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
   brandStrength: 1
-  lightness: 0.8878579915035516
-  saturation: 0.6777845751494169
-  rhythmicContrast: 0.3242540641222149
+  lightness: 1
+  saturation: 0.25
+  rhythmicContrast: 0.25
 purpose: []
