@@ -1,29 +1,41 @@
-name: Imtiaz Willems
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.16968
 title: Imtiaz Willems
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.9587814
+  brandColors:
+    - '#FFFFFF'
+    - '#59708F'
+    - '#B54D42'
+    - '#4C154E'
+    - '#F4CA76'
+  rhythmicContrast: 0.5878136
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Imtiaz Willems
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#5c6f82'
-    - '#222835'
-    - '#3d4f60'
-    - '#612c3d'
-    - '#cb3659'
-  brandStrength: 1
-  lightness: 0.5625
-  saturation: 0.3125
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.3978495
+layout_spectrum: 0.8387097
