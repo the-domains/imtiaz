@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Imtiaz Willems]]></title>
         <description><![CDATA[Imtiaz Willems]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/imtiaz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 17:35:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Aug 2016 17:41:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/imtiaz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Espresso - Verbania, Intra</p>]]></description>
+            <link>https://thegrid.ai/imtiaz/espresso-verbania-intra/index.html</link>
+            <guid isPermaLink="false">60b9e947-3b8f-48ef-8b9d-54f7004d9bda</guid>
+            <pubDate>Wed, 10 Aug 2016 17:41:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>instagram.com/adam-phase</p>]]></description>
-            <link>undefinedinstagramcomadam-phase/index.html</link>
+            <link>https://thegrid.ai/imtiaz/instagramcomadam-phase/index.html</link>
             <guid isPermaLink="false">4e68905a-3cad-4a47-b8a2-92b8460544f7</guid>
             <pubDate>Wed, 10 Aug 2016 17:35:38 GMT</pubDate>
         </item>
