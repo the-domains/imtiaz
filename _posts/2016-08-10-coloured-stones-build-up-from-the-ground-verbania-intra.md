@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Coloured stones build up from the ground - Verbania, Intra'
-datePublished: '2016-08-10T17:42:58.065Z'
-dateModified: '2016-08-10T17:42:56.717Z'
-authors: []
-publisher: {}
+datePublished: '2016-08-10T17:44:32.353Z'
+dateModified: '2016-08-10T17:44:29.881Z'
 title: ''
 author: []
 via: {}
-starred: false
 sourcePath: _posts/2016-08-10-coloured-stones-build-up-from-the-ground-verbania-intra.md
+authors: []
+publisher: {}
+starred: false
 url: coloured-stones-build-up-from-the-ground-verbania-intra/index.html
 _type: Article
 
