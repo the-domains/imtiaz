@@ -19,6 +19,9 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: Imtiaz Willems
+  email: imtiazwillems@gmail.com
 name: Imtiaz Willems
 cta:
   bucket: null
