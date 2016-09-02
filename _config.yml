@@ -1,5 +1,30 @@
-title: Imtiaz Willems
-purpose: []
+typography_spectrum: 0.3978495
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.9587814
+  brandColors:
+    - '#FFFFFF'
+    - '#59708F'
+    - '#B54D42'
+    - '#4C154E'
+    - '#F4CA76'
+  rhythmicContrast: 0.5878136
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8387097
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Imtiaz Willems
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 1
-  brandStrength: 1
-  lightness: 0.9587814
-  brandColors:
-    - '#FFFFFF'
-    - '#59708F'
-    - '#B54D42'
-    - '#4C154E'
-    - '#F4CA76'
-  rhythmicContrast: 0.5878136
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Imtiaz Willems
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3978495
-layout_spectrum: 0.8387097
+title: Imtiaz Willems
+description: Music Industry Professional
+purpose: []
